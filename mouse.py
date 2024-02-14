@@ -1,5 +1,5 @@
+# Library for controlling mouse position
 from pynput.mouse import Listener
-
 
 def writeToFile(x,y):
     print("Position of current mouse [0]".format((x,y)))

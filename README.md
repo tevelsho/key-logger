@@ -1,3 +1,5 @@
+# Key Logger
+
 This Python keylogger tracks keystrokes and mouse movements on a system, providing a way to monitor user activity. The keylogger consists of three main files:
 
     main.py: Captures keyboard input and writes keystrokes to a log file (log.txt).
